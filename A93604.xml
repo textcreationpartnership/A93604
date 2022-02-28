@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scintilla, or, A light broken into darke warehouses. With observations vpon the monopolists of seaven severall patents, and two charters. Practiced and performed, by a mistery of some printers, sleeping stationers, and combining book-sellers. Anatomised and layd open in a breviat, in which is only a touch of their forestalling and ingrossing of books in pattents, and raysing them to excessive prises. Left to the consideration of the high and honourable House of Parliament now assembled.</title>
+            <author>Sparke, Michael, d. 1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93604</idno>
+            <idno type="STC">Wing S4818B</idno>
+            <idno type="STC">Thomason E169_3</idno>
+            <idno type="STC">ESTC R8350</idno>
+            <idno type="EEBO-CITATION">99873287</idno>
+            <idno type="PROQUEST">99873287</idno>
+            <idno type="VID">157018</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157018)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E169[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scintilla, or, A light broken into darke warehouses. With observations vpon the monopolists of seaven severall patents, and two charters. Practiced and performed, by a mistery of some printers, sleeping stationers, and combining book-sellers. Anatomised and layd open in a breviat, in which is only a touch of their forestalling and ingrossing of books in pattents, and raysing them to excessive prises. Left to the consideration of the high and honourable House of Parliament now assembled.</title>
+                  <author>Sparke, Michael, d. 1653.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>At London, Printed, not for profit, but for the common weles good: and no where to be sold, but some where to be given :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Michael Sparke. Cf. BM.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term>Printing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157018:1"/>
+            <pb facs="tcp:157018:1" rendition="simple:additions"/>
+            <p>SCINTILLA, OR A LIGHT BROKEN INTO darke <hi>Warehouſes.</hi>
+            </p>
+            <p>With OBSERVATIONS VPON THE Monopoliſts of Seaven ſeverall <hi>Patents,</hi> and Two <hi>Charters.</hi>
+            </p>
+            <p>Practiſed and performed, By a Miſtery of ſome <hi>Printers,</hi> Sleeping <hi>Stationers,</hi> and Combining <hi>Book-ſellers.</hi>
+            </p>
+            <p>Anatomiſed And layd open in a <hi>Breviat,</hi> in which is only a touch of their <hi>foreſtalling</hi> and <hi>ingroſſing</hi> of Books in <hi>Pattents,</hi> and Rayſing them to exceſſive <hi>priſes.</hi>
+            </p>
+            <p>
+               <hi>Left to the Conſideration of the High and Honou<g ref="char:EOLhyphen"/>nourable Houſe of</hi> Parliament <hi>now aſſembled.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Let not one Brothor oppreſſe another.</hi>
+               </p>
+               <p>
+                  <hi>Doe as you would be done unto.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>AT LONDON,</hi> Printed, not for <hi>profit,</hi> but for the Common Weles good: and no where to be <hi>ſold,</hi> but ſome where to be given. 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:157018:2"/>
+            <head>The EPISTLE to the Reader.</head>
+            <p>COurteous Reader (or otherwiſe) if thou lookeſt for the Reaſon of writing this Book, here it is, and ſo <hi>Anonimus</hi> leaves thee.</p>
+            <epigraph>
+               <q>
+                  <hi>Non nobis Solum, nati ſumus, ſed partim patriae.</hi>
+               </q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:157018:2"/>
+            <head>Bibles for Churches new Tranſlation large Folio.<note place="margin">Kings Printers Patent of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+               </note>
+            </head>
+            <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+            <p>
+               <hi>CHurch</hi> Bibles ſold in former times in quires at 1<hi rend="sup">l</hi> 10<hi rend="sup">ſ</hi> ſold now (in quires) 2<hi rend="sup">l</hi>, ſo rayſed in every Book 10<hi rend="sup">ſ</hi>. If they Print 3000. of an Impreſſion, raiſed 1500<hi rend="sup">l</hi>. In former times theſe were bought in quires at 1<hi rend="sup">l</hi> 5<hi rend="sup">ſ</hi>.</p>
+            <p>
+               <hi>Church</hi> Bibles of a thinner ſort have been ſold at 1<hi rend="sup">l</hi> in quires: Partners have bought them cheaper, buying a quan<g ref="char:EOLhyphen"/>tity, and thoſe Partners ſold them ſeverally at 17<hi rend="sup">ſ</hi> 6<hi rend="sup">d</hi>, not ſtocking or combining as now they doe, theſe Bibles were excellent for poore Pariſhes.</p>
+            <p>Large Folio Bibles of a Roman Print, with the Notes, ſold in former times in quires at 12<hi rend="sup">ſ</hi> 6<hi rend="sup">d</hi>: The ſame ſort now with<g ref="char:EOLhyphen"/>out the Notes be rayſed 7<hi rend="sup">ſ</hi> 6<hi rend="sup">d</hi> in a Book: 1500. of an Im<g ref="char:EOLhyphen"/>preſſion ſo rayſed in every Book, amounts to 562<hi rend="sup">l</hi> 10<hi rend="sup">ſ</hi>.</p>
+            <p>Large Folio Engliſh Letter with Notes, be ſold at 13<hi rend="sup">ſ</hi> 4<hi rend="sup">d</hi> in quires. And ſmall Folio Engliſh, ſold 12<hi rend="sup">ſ</hi> in quires: none of this ſort Printed now.<note place="margin">
+                  <hi>Cambridge</hi> Bi<g ref="char:EOLhyphen"/>bles Folio of long primer letter, <hi>vide Cambridge</hi> Char<g ref="char:EOLhyphen"/>ter.</note>
+            </p>
+            <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+            <p>In the yeare 1629, the want of theſe ſorts of Folio Bibles cauſed <hi>Cambridge</hi> Printers to print it, and they ſold it at 10<hi rend="sup">ſ</hi> in quires: upon which the then Kings Printers ſet ſix Print<g ref="char:EOLhyphen"/>ing-houſes at worke, and on an inſtant Printed one Folio Bible in the ſame manner, and ſold with it 500.<note place="margin">This Folio would not have bin ſold under 12 or 14 <hi>ſh.</hi> if it had not bin that <hi>Cambridge</hi> had Printed it: but, now they ſold it at 5 <hi>ſh,</hi> which would have bin 12 <hi>ſh</hi> at leaſt, and the <hi>4<hi rend="sup">to</hi>
+                  </hi> at 5 <hi>ſh,</hi> which was be<g ref="char:EOLhyphen"/>fore 9 <hi>ſh. Scot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Printers.</note> Quarto Roman Bi<g ref="char:EOLhyphen"/>bles, and 500. Quarto Engliſh, at 5<hi rend="sup">ſ</hi> a Book, to overthrow the <hi>Cambridge</hi> Printing, and ſo to keep all in their own hands. It were well if they would alwayes ſell at this price.</p>
+            <p>In former times our Kings Printers did agree with Mr. <hi>Andrew Hart,</hi> and after with Mr. <hi>John Hart</hi> Book-ſellers of <hi>Edenburg</hi> to ſerve them <hi>London</hi> Bibles at lower rates then they ſold them at here: ſo that they would not Print where<g ref="char:EOLhyphen"/>by they might keep all the priviledges to themſelves, ſince which <hi>Robert Young</hi> and <hi>Miles Fleſher,</hi> moſt cunningly com<g ref="char:EOLhyphen"/>bined
+<pb n="2" facs="tcp:157018:3"/>with the Kings Printers here, and ſo ſunke the Print<g ref="char:EOLhyphen"/>ing-houſe there, ſo that now <hi>Scotland</hi> is deſtitute; and by this means Books are rayſed to greater rates here, and there like<g ref="char:EOLhyphen"/>wiſe.</p>
+            <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+            <p>The Kings Printers and others here being intereſſed in the Iriſh ſtock,<note place="margin">
+                  <hi>Ireland</hi> Patent,</note> ſold Mr. <hi>William Bladon</hi> of <hi>Dublin</hi> their Stock there, and Pattent, and have ſo Bound him, as he ſhall not Print but what they liſt of their priviledge, ſo that <hi>Scotland</hi> and <hi>Ireland</hi> muſt grind at their Mill. Obſerve in what a caſe theſe be: for Bibles, eſpecially if the laſt Decree in Star-cham<g ref="char:EOLhyphen"/>ber had held, concerning Printing: for all muſt be bought at one place to ſerve three Kingdomes.</p>
+            <div type="part">
+               <head>Cambridge Bible Folio.</head>
+               <p>
+                  <hi>Cambridge</hi> Large Folio Bible Roman,<note place="margin">It is judged that the price Raiſed in theſe three ſorts, is not leſſe in the totall ſum then 200 <hi>li.</hi> And the Mono<g ref="char:EOLhyphen"/>poliſts have com<g ref="char:EOLunhyphen"/>pounded with them that they ſhall print no more Bibles, but for the Mono<g ref="char:EOLhyphen"/>poliſts.</note> of the beſt paper, ſold at 1<hi rend="sup">l</hi> 10<hi rend="sup">ſ</hi>, in quires, or cheaper, they rayſed it 10<hi rend="sup">ſ</hi> on a Book, and ſold it at 2<hi rend="sup">l</hi>.</p>
+               <p>
+                  <hi>Cambridge</hi> Medyum Folio Bible Roman, ſold at, or cheaper then 1<hi rend="sup">l</hi> 2<hi rend="sup">ſ</hi> 6<hi rend="sup">d</hi> in quires; the Monopoliſts raiſe 7<hi rend="sup">ſ</hi>, 6<hi rend="sup">d</hi> and ſell it at 1<hi rend="sup">l</hi> 10<hi rend="sup">ſ</hi>.</p>
+               <p>
+                  <hi>Cambridge</hi> thinne paper Folio Roman, ſold at, or cheaper then 16<hi rend="sup">ſ</hi> in quires; the Monopoliſts raiſed it 4<hi rend="sup">ſ</hi>, and ſo ſell it at 1<hi rend="sup">l</hi> in quires.</p>
+               <p>See the errors cortected in the <hi>Cambridge</hi> Bibles, which were Printed in the <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>Cambridge</hi> Quarto Roman Letter Bibles, with Pſalms, ſold at 7<hi rend="sup">ſ</hi>. They have raiſed on a Book 3<hi rend="sup">ſ</hi>, and ſo ſell it with Pſalmes at 10<hi rend="sup">ſ</hi> in quires, which if the Monopoliſts ſhould buy but a 1000. it would be raiſed 150<hi rend="sup">l</hi>.</p>
+               <p>
+                  <hi>Cambridge</hi> Quarto Engliſh Letter, with Pſalmes ſold in quires at 6<hi rend="sup">ſ</hi>. rayſed on a Book 2<hi rend="sup">ſ</hi> 4<hi rend="sup">d</hi>. now the Monopoliſts ſell it at 8<hi rend="sup">ſ</hi> 4<hi rend="sup">d</hi>: if 3000 be ingroſſed by them, it would raiſe 350<hi rend="sup">l</hi>.</p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <p>Obſerve, they have not only bought in al thoſe Bibles with Pſalmes,<note place="margin">
+                     <hi>Oxford</hi> Charter,</note> and Grammers, and Schoole Books, but have for everagreed for what ſhalbe printed both there and at <hi>Oxford</hi> Books Priviledge: and where they were there Printed bravely, true, and in good paper, now look for other.</p>
+            </div>
+            <div type="part">
+               <head>London Bibles in Quarto.</head>
+               <p>
+                  <hi>London</hi> Bible Quarto Engliſh Letter, with the Notes and
+<pb n="3" facs="tcp:157018:3"/>Concordance of the old Tranſlation in times paſt was ſold at 7 <hi>ſh.</hi> in quires, and then it was 139. ſheets, and now but 116. and no Notes, and ſold at 9. <hi>ſh.</hi> 2<hi rend="sup">d</hi> with Concordance: 3000. rayſed makes 350l.</p>
+               <p>
+                  <hi>London</hi> Quarto Roman with Notes, ſold in times paſt at 7ſ. The Quarto Roman now with no Notes ſold at 10. <hi>ſh.</hi> in quires, ſo rayſed in an Impreſſion of 3000 500<hi rend="sup">l</hi>.</p>
+               <p>There hath been at leaſt 12000. of theſe Bibles Quarto with Notes Printed in <hi>Holland,</hi> and ſold very reaſonable: and many brought from thence hither, and they have been ſei<g ref="char:EOLhyphen"/>ſed by the Kings Printers, and the parties that Imported them, not only loſt them, but were put in* <hi>Purgatory,</hi>
+                  <note place="margin">The High-Commiſſion.</note> and there glad to loſe their Bibles and all coſt to get off; and then the Monopoliſts ſold them again, and ſo kept al others in awe.</p>
+               <p>Great pitty our Printing ſhould be forced to be carryed to Strangers, in my judgement:<note place="margin">I have known divers puniſhed for ſelling Bi<g ref="char:EOLhyphen"/>bles, but none for Maſſe Books</note> better to have our own Nation ſet at work. More puniſhment for ſelling a 4<hi rend="sup">to</hi> Bible with Notes, then a 100. Maſſe Books in the High Commiſſion.</p>
+               <p>In former times Bibles in Octavo ſold at 3. <hi>ſh.</hi> 4<hi rend="sup">d</hi> in quires,<note place="margin">
+                     <hi>London</hi> Octavo Bibles.</note> are now ſold at 4. <hi>ſh.</hi> in quires, though then 9. ſheets more then now. There have been 10000. printed in a year, which might have been afforded at 3 <hi>ſh.</hi> a Book, ſo that there might have been ſaved to the Subject in an Impreſſion 500<hi rend="sup">l</hi>.</p>
+               <p>Bibles 8<hi rend="sup">to</hi> of a Large paper,<note place="margin">
+                     <hi>London</hi> Bibles of a little Larger paper.</note> not 3<hi rend="sup">d</hi> in a Book more then the other, and ſold at 6. <hi>ſh.</hi> 2<hi rend="sup">d</hi> in quires: are rayſed 2. <hi>ſh.</hi> 2<hi rend="sup">d</hi> in a Book, which makes in that Impreſſion of 6000. the ſumme of 650.</p>
+            </div>
+            <div type="part">
+               <head>Scottiſh Bibles,</head>
+               <p>Printed of excellent paper and print at <hi>Edenburg,</hi>
+                  <note place="margin">
+                     <hi>Scots</hi> Bibles O<g ref="char:EOLhyphen"/>ctavo, <hi>Scots</hi> Pa<g ref="char:EOLhyphen"/>tent 3 <hi>London.</hi>
+                  </note> ſold in <hi>London</hi> 26. to the quartern, and <hi>London</hi> Bibles but 25. to the quartern at our rates, notwithſtanding the charg and hazard of importation. <hi>London</hi> Bible in 12 ſold at 4. <hi>ſh.</hi> in quires, ſtands not them in 1. <hi>ſh.</hi> 8<hi rend="sup">d</hi>: there may be ſaved to the Subject in an Impreſſion 500<hi rend="sup">l</hi>, and they great gainers.</p>
+               <p>
+                  <hi>Scottiſh</hi> Bible 12. ſold 26 other quartern, better paper,<note place="margin">Scots <hi>Bible</hi> Edenburg.</note> and better print then thoſe here: now al <hi>Scots</hi> printing of Bibles is taken-away by <hi>Young</hi> and <hi>Fletcher,</hi> two main proj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctors.<note place="margin">
+                     <hi>Holland</hi> vide 1639.</note>
+               </p>
+               <p>
+                  <hi>Holland</hi> Bible in 12 ſold at 2. <hi>ſh.</hi> in quires, better then the <hi>London</hi> one of 1639 ſold at 4 <hi>ſh.</hi> pitty the manufactory ſhould be carryed thither by deare ſelling here.</p>
+               <pb n="4" facs="tcp:157018:4"/>
+               <p>Latin Bibles 12 of <hi>Amſterdam,</hi>
+                  <note place="margin">Lattin Bibles.</note> printed well, and ſold at 2 <hi>ſh</hi> in quires, and good paper. <hi>London</hi> Latin Bible 12 printed with a popiſh Index, ſold at 4 <hi>ſh.</hi> in quires, and not under.</p>
+               <p>Obſerve <hi>London</hi> Stationers that bought of the Lattin <hi>Hol<g ref="char:EOLhyphen"/>land</hi> Bibles, puniſhed in the High Commiſſion for buying Lattin Bibles from <hi>Holland,</hi> a yeare before ever any were printed in <hi>London;</hi> obſerve what a but of Sack might doe.</p>
+               <p>
+                  <hi>London</hi> Teſtament <hi>octavo,</hi> ſold at 10<hi rend="sup">d</hi> in quires, raiſed to 1 <hi>ſh.</hi> which 2d upon a Bock makes in 12000 impreſſion a year 100<hi rend="sup">l</hi>.</p>
+               <p>
+                  <hi>Scots</hi> Teſtament at <hi>Edenburg,</hi> ſold here in <hi>London</hi> at 10<hi rend="sup">d</hi> better paper and print than ours here.</p>
+               <p>
+                  <hi>London</hi> Teſtaments in 12, at 7<hi>d</hi> rayſed 3<hi rend="sup">d</hi> in a Book, ſold now at 10<hi rend="sup">d</hi>, make in 6000. the over priſe, rated 75<hi rend="sup">l</hi>.</p>
+               <p>
+                  <hi>Cambridge</hi> Teſtament 24. were ſold at 6<hi rend="sup">d</hi> in quires. <hi>London</hi> Teſt. 24 ſold at 8<hi rend="sup">d</hi> a Book, 2<hi rend="sup">d</hi> a Book rayſed in 4000, is 30<hi rend="sup">l</hi>.</p>
+               <p>
+                  <hi>London</hi> Common prayers in 24. raiſed <hi>ob</hi> upon a Book 4000 of them is 8<hi rend="sup">l</hi> 
+                  <hi>6ſh</hi> 8<hi rend="sup">d</hi>.</p>
+               <p>
+                  <hi>London</hi> Common prayer Books in <hi>folio,</hi> ſold at <hi>3ſh</hi> in quires, rayſed 1 <hi>ſh.</hi> on a Book, now ſold at <hi>4ſh.</hi> comes to in 3000 an Impreſſion 150<hi rend="sup">l</hi>.</p>
+               <p>Common prayers 4<hi rend="sup">to</hi> ſold at 1 <hi>ſh</hi> 6<hi rend="sup">d</hi> a Book: rayſed 6<hi rend="sup">d</hi> on a Book, ſold at 2 <hi>ſh</hi> 3000. the Impreſſion is rayſed 57<hi rend="sup">l</hi>.</p>
+               <p>Common prayers for <hi>quarto</hi> Bibles rayſed 2<hi rend="sup">d</hi> on a Book.</p>
+               <p>Common prayers in 16, raiſed 1<hi rend="sup">d</hi> on a Book, comes to 12 <hi>li</hi> 10 <hi>ſh</hi> 3000 of the Impreſſion.</p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <p>Obſerve I pray now,<note place="margin">Law Books. Law Pattent.</note> I come to the Law Books, I had need to break two lights into the <hi>Warehouſe:</hi> but I perceive then this would riſe too bigge. I will only nominate 3 Books in 3 ſeverall Volumes, ſo by the 3 you may conceive the reſt.</p>
+               <p>The Monopoliſt have not only gotten all the <hi>Goſpel,</hi>
+                  <note place="margin">Law Books.</note> but alſo the <hi>Law</hi> as followes.</p>
+               <p>
+                  <hi>Poltons Statutes</hi> ſold at 1<hi>l</hi> 10 <hi>ſh</hi> in quires,<note place="margin">Folio,</note> in former times, now rayſed to 6 <hi>ſh</hi> 8<hi>d</hi> a Book; the Impreſſion of 1500 ſo ray<g ref="char:EOLhyphen"/>ſed by the Monopoliſt amounts to 500 <hi>li.</hi>
+               </p>
+               <p>
+                  <hi>Edward</hi> the 4<hi rend="sup">th</hi> 
+                  <note place="margin">Quarto,</note> ſold at 13 <hi>ſh</hi> 4<hi>d,</hi> now rayſed 8 <hi>ſh</hi> in a Book, comes to in a 1000 Books to 400 <hi>li.</hi>
+               </p>
+               <p>
+                  <hi>Compleat Iuſtice</hi> ſold at 2 <hi>ſh</hi> 2<hi>d</hi> a Book,<note place="margin">Octavo,</note> I will ſell every Im<g ref="char:EOLhyphen"/>preſſion cheaper by a 100 <hi>li.</hi> And here have they ingroſſed the Scoole Books Patent.</p>
+               <pb n="5" facs="tcp:157018:4"/>
+               <p>Grammer of <hi>Oxford</hi> and <hi>Cambridge</hi> ſold at 5<hi>d</hi> a Booke:<note place="margin">Schoole Books Patent 5, <hi>Lylies</hi> Grammer</note> but theſe the Monopoliſts buy in, and ſell them, and theirs at 8<hi>d</hi> a Book, q<hi>s</hi> which in an yearely Impreſſion of 20000 is rayſed 250 <hi>li.</hi>
+               </p>
+               <p>
+                  <hi>Camdens</hi> Greek Grammer ſold at 8 <hi>d.</hi> a Book in quires al<g ref="char:EOLhyphen"/>wayes,<note place="margin">
+                     <hi>Camden</hi> Greek Grammer,</note> now ſold at 1 <hi>ſh.</hi> 2 <hi>d.</hi> Rayſed 6<hi>d</hi> on a Book. The ſame Printed in <hi>France,</hi> is ſold here at 4<hi>d ob.</hi> a Book, and ſo Ray<g ref="char:EOLhyphen"/>ſed in 3000 to the ſumme of 75 <hi>li.</hi>
+               </p>
+               <p>
+                  <hi>Accedence,</hi>
+                  <note place="margin">Accedence,</note> this Book by chance a yeare a goe broke looſe from the Stake of the Monopoliſt, and was ſold at ſix ſhil<g ref="char:EOLhyphen"/>lings in the pound cheaper then they ſell them: but they have by Combination tyed him to the Stake again: for obſerve, if the old Partners cannot agree together, the <hi>Young</hi> will, though never ſo Indirect.</p>
+               <p>The Monopoliſt keep all others from Printing Concor<g ref="char:EOLhyphen"/>ances by their Pattent,<note place="margin">Concordance Pattent, 6,</note> and theſe being Printed in another Volume beyond Sea, and brought over, and ſold at half their priſe, they ſeiſe and take them from others, and ſel them again themſelves, although theirs be not to be had here: So have they likewiſe ſeiſed other Books Printed beyond the Seas, when not any Printed here were to be had.</p>
+               <p>But a touch of this: for it is too tart,<note place="margin">Geneology pat<g ref="char:EOLhyphen"/>tent, 7,</note> and I verily beleeve picks the Subjects pockets, that eats brown bread to fill the <hi>ſleeping Stationers</hi> belly with Veniſon and Sacke, and robs the Common-wealth in too ſtill away; and when the Sellers by Retale get not a <hi>ob:</hi> theſe Monopoliſts get a ſhilling: for the Octavo <hi>Geneologie,</hi> and the twelve, of every <hi>4li.</hi> they make <hi>15li.</hi> and for the 12. what the Retalers give <hi>4li.</hi> for, they will not of they were to be returned again give fix ſhil<g ref="char:EOLhyphen"/>lings for it.</p>
+               <p>I hope when the Honourable Aſſembly of <hi>Parliament</hi> ſees this, as I ſhall be ready to make proof of all; they will put an end to theſe crying grievances, and help the calamities of the poore pinſhed Subjects.</p>
+               <p>Here I could open another window, but I ſee many poore ſtand within to keep it ſhut, and I will not adde miſery to their affliction.</p>
+               <pb n="6" facs="tcp:157018:5" rendition="simple:additions"/>
+               <p>Laſtly, ſome few obſervations ſhall ſerve for the <hi>Errata,</hi> which the Honourable Houſe of <hi>Parliament</hi> may correct in the Society of <hi>Stationers,</hi> by taking order that the Statute of 25 <hi>H.</hi> 8. <hi>c.</hi> 15. concerning the priſes of Bookes may be duly exerciſed; that there may be at leaſt 20 or 24 Aſſiſtants to the Company, and none of thoſe to be above twice Maſter, for now ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x or 8 of the Eldeſt Combining, carry all to their own mark, and ay me alwayes at their own end: and that if they wil not Print ſuch Coppies as are there entred to the Company, it may and ſhallbe free for any to imprint or Import them, untill ſuch times they Print them here to furniſh the Kingdome.</p>
+               <p>This may ſerve in part for ſhould I make a whole <hi>Errata</hi> it would be farre bigger then this Breviat, and here look but into a window of the Monopoliſts Law-Warehouſe: and there behold a free diſcovery as here followes.</p>
+            </div>
+         </div>
+         <div type="breviat">
+            <p>Bought of the Law Printers Bookes at the partners priſes Stocked. Ian. 1639 1879. Tables to Cookes Littleton at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>11 d. a Book fol. 2 s. 4d.</p>
+            <p>October 1630.</p>
+            <p>1500 Eliments of the Law at <hi>12ſh</hi> 6<hi>d.</hi> per reame which is 7 or 8<hi>d.</hi> a Book Stocked at 1 <hi>ſh</hi> 6<hi>d.</hi> Iuly 1631. 1500 Engliſh Lawers at 9 <hi>d.</hi> a Book, Stock<g ref="char:EOLhyphen"/>ed at 2 <hi>ſh</hi> Octoher 1630. 1334 Daltons Iuſtice, at 4 <hi>ſh.</hi> a Booke Stocked at 6 <hi>ſh.</hi> 25 to the quartern. 1200. Statuts at 22 <hi>ſh.</hi> Stock 36 <hi>ſh.</hi> 8 <hi>d.</hi> 26 to the quarter. 1200 Cookes Tables to reports, 2 <hi>ſh.</hi> 2 <hi>d.</hi> a Booke, Stocked at 4 <hi>ſh.</hi> 25 to the quartern. 1200 Cooks 11th Report at 1 <hi>ſh.</hi> 10 <hi>d.</hi> a Booke, Stocked at 5 <hi>ſh.</hi> 25 to the quartern. 1200 Weſt 1 part at 2 <hi>ſh.</hi> 2 <hi>d.</hi> a Booke, Stock 3 <hi>ſh</hi> 6 <hi>d.</hi> 26 to the quarter. 700. Woemans Lawer at 22 <hi>d.</hi> a Booke, Stock at 3 <hi>ſh.</hi> 26 to the quarter. 600. Kellowayes at 3 <hi>ſh</hi> 6 <hi>d.</hi> a Booke, Stock at 7 <hi>ſh.</hi> 6 <hi>d.</hi> 26 to the quarter, 1200 Littleton fol, at 10 <hi>ſh.</hi> a Booke, Stock, at 15 <hi>ſh.</hi> 6 <hi>d.</hi> 26 to the quar<g ref="char:EOLhyphen"/>ter. 600. Regeſters at 6 <hi>ſh.</hi> 8 <hi>d.</hi> a Booke, Stock at 15 26 to the quarter. 600 Cooks 2 <hi>d</hi> report Stocked at 4 <hi>ſh.</hi> 600 3 <hi>d.</hi> report at 4 <hi>ſh.</hi> 600 4<hi rend="sup">th</hi> re<g ref="char:EOLhyphen"/>port at 5 <hi>ſh.</hi> bought at 1 <hi>ſh.</hi> 8 <hi>d.</hi> a Booke, 600 Natura Brevium 80 at 1 <hi>ſh.</hi> 8 <hi>d,</hi> S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ock't at 3 <hi>ſh.</hi> 8 <hi>d.</hi> 26 to the quarter. Aprill 1637. 1700 Courte at 12 <hi>ſh.</hi> 6 <hi>d.</hi> a Reame, Stock at 3 <hi>d.</hi> 26 to the quarter. 1600 Tearmes of the Law, at 2 <hi>ſh.</hi> a Booke, Stock at 3 <hi>ſh.</hi> 8 <hi>d.</hi> 26 to the quar<g ref="char:EOLhyphen"/>ter. 700 Finches Lawe 80 at 1 <hi>ſh</hi> a Booke, Stock at 2 <hi>ſh.</hi> 6 <hi>d.</hi> 26 to the quarter. 1000 Preſidents 80 at 6 <hi>d.</hi> a Book, Stock at 10 <hi>d.</hi> 26 to the quar<g ref="char:EOLhyphen"/>ter. 600 Cooks 1 Report at 2 <hi>ſh.</hi> 6 <hi>d.</hi> a Booke, Stock at 6 <hi>ſh.</hi> 2 <hi>d.</hi> 26 to the quarter. 2000 Compleat luſtice, 80 at 1 <hi>ſh.</hi> 3 <hi>d.</hi> a Booke Stock at 2 <hi>ſh.</hi> 2 <hi>d.</hi> 26 to the quarter. 500 Longe Quinto at 1 <hi>ſh.</hi> Stock't at 6 <hi>ſh.</hi> 1000 Doctor and Studient 13 <hi>ſh.</hi> 4 <hi>d.</hi> a Reame be 6 <hi>d.</hi> a Booke Stock 1 <hi>ſh.</hi> But I know </p>
+            <q>
+               <hi>Obſequium amicos, Veritas odium parit.</hi>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157018:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
